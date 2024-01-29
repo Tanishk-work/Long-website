@@ -1,0 +1,7 @@
+body{
+    background: -webkit-linear-gradient(left, rgb(219, 39, 120), rgb(220, 5, 231));
+}
+a:link{ 
+    text-decoration: none; 
+    color: white;
+}
